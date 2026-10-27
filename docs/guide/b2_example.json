@@ -1,0 +1,46 @@
+{
+ "old_rows": 1219,
+ "old_phrase_in_title": 10,
+ "exact_rows": 241,
+ "exact_ge50": 51,
+ "profile_rows": 217,
+ "profile_ge50": 117,
+ "note": "In the profile run, the first eleven rows (scores 95 to 100) are all about the B2 protein of nodaviruses or the Flock House virus. Further down, papers that use \"B2 protein\" for something else (a wheat protein, a bacterial gene) appear with lower scores, and papers that only mention the words in passing score lowest. A phrase can still be ambiguous, so read the top of the list first and use Must also contain and Exclude terms to sharpen it.",
+ "rows": [
+  [
+   "PubMed",
+   "57,749",
+   "137"
+  ],
+  [
+   "OpenAlex",
+   "304,231",
+   "253"
+  ],
+  [
+   "Europe PMC",
+   "205,957",
+   "146"
+  ],
+  [
+   "Preprint servers",
+   "10,919",
+   "8"
+  ],
+  [
+   "EPO",
+   "654",
+   "33 (13 more removed by the phrase check)"
+  ],
+  [
+   "USPTO",
+   "not searched",
+   "1"
+  ],
+  [
+   "Crossref",
+   "1,447,717 (ranked by similarity)",
+   "200 fetched, only 9 contain the phrase"
+  ]
+ ]
+}
